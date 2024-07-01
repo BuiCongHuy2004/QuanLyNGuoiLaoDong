@@ -1,0 +1,32 @@
+<users>
+    <user>
+        <id>1</id>
+        <firstName>Huy</firstName>
+        <lastName>Bui Cong</lastName>
+        <gender>Male</gender>
+        <age>20</age>
+        <birthDate>19/10/2004</birthDate>
+        <address>Hanoi</address>
+        <permanentAddress>123 tranphu hadong</permanentAddress>
+        <occupation>Software Engineer</occupation>
+        <maritalStatus>Unmarried</maritalStatus>
+        <income>60000.00</income>
+        <idNumber>123456789</idNumber>
+        <imagePath>/path/to/image.jpg</imagePath>
+    </user>
+    <user>
+        <id>2</id>
+        <firstName>Huong</firstName>
+        <lastName>Nguyen Thi Mai</lastName>
+        <gender>Female</gender>
+        <age>20</age>
+        <birthDate>15/05/2004</birthDate>
+        <address>789 Oak St</address>
+        <permanentAddress>101 Pine St</permanentAddress>
+        <occupation>Data Analyst</occupation>
+        <maritalStatus>Married</maritalStatus>
+        <income>50000.00</income>
+        <idNumber>987654321</idNumber>
+        <imagePath>/path/to/image.jpg</imagePath>
+    </user>
+</users>
